@@ -28,7 +28,7 @@ twitter_username: shakya_kai
 github_username:  kaizokush
 
 # Build settings
-theme: minima
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
