@@ -22,7 +22,7 @@ title: Ujjwal Shakya
 email: ushakya3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   IT Enthusiast
-baseurl: "/posts" # the subpath of your site, e.g. /blog
+baseurl: "kaizokush.github.io" # the subpath of your site, e.g. /blog
 url: "https://kaizokush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shakya_kai
 github_username:  kaizokush
