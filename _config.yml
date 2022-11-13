@@ -28,7 +28,7 @@ twitter_username: shakya_kai
 github_username:  kaizokush
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
 
