@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "2025 Resolution"
+date:   2024-12-28
+permalink: /posts/learning-ansible
+categories: ansible
+---
+
+I have wanted to learn and work with servers for long time. Thinking back on setting my new years resolution I want to be able to work with servers and I start with ansible.
+
+Resources:
+- [Ansible Documentation](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+
+
+
